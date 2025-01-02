@@ -18,7 +18,7 @@ The **ConsoleScreenBuffer** class gives you the ability to create console screen
 * **To Activate a buffer**  -
   * ```buffer.SetAsActiveBuffer()``` All of the Console API's will use the new screen buffer seamlessly.
 
-![secondaryBuffer]([assets/secondaryBuffer.gif](https://github.com/tomlm/ConsoleScreenBuffer/blob/main/assets/secondaryBuffer.gif))
+![secondaryBuffer](https://github.com/tomlm/ConsoleScreenBuffer/blob/main/assets/secondaryBuffer.gif)
 
 # Example
 
